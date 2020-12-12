@@ -52,9 +52,11 @@ class InteractiveMode(cmd.Cmd):
 
 	def replace_val(self, field, value):
 		InteractiveMode.table.table.clear_rows()
-		position = InteractiveMode.table.table.field_names.index(field)
+		lowers = [elem.lower() for elem in InteractiveMode.table.table.field_names]
+		position = lowers.index(field.lower())
 		InteractiveMode.table.rows[position] = value
 		InteractiveMode.table.table.add_row(InteractiveMode.table.rows)
+
 
 class RawQuery(object):
 
@@ -74,6 +76,7 @@ class RawQuery(object):
 		self.info = []
 		self.exact_terms = []
 		self.excluded_terms = []
+		self.query = ""
 
 if __name__ == '__main__':
 	InteractiveMode().cmdloop()
