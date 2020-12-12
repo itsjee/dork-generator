@@ -1,5 +1,5 @@
 
-### Dork Generator ![Python|3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
+### Dork Generator ![Python|3.7](https://img.shields.io/badge/Python-3.8-blue.svg)
 <img src="lib/Ultimate-Dork.png" width="400" height="400">
 <b>Dork generator lorem ipsum<b><br>
  
@@ -17,10 +17,10 @@ python3 -m pip install requirements.txt
 * Lorem Ipsum
  python3 dork-generator.py --lorem arg 
  
- * with Scan SQLi vulnerability
+ * Lorem Ipsum
  python3 dork-generator.py --lorem arg --scan
 
- * with Proxy
+ * Lorem Ipsum
  python3 dork-generator.py --lorem arg --proxy 0.0.0.0:1337
  
  
