@@ -1,5 +1,5 @@
 
-### Dork Generator ![Python|3.7](https://img.shields.io/badge/Python-3.8-blue.svg)
+### Dork Generator ![Python|3.7](https://img.shields.io/badge/Python-3.8-blue.svg)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <img src="lib/Ultimate-Dork.png" width="400" height="400">
 <b>Dork generator lorem ipsum<b><br>
  
