@@ -59,7 +59,6 @@ class InteractiveMode(cmd.Cmd):
 class RawQuery(object):
 
 	def __init__(self):
-
 		self.exact_title = ""
 		self.exact_url = ""
 		self.exact_text = ""
