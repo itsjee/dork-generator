@@ -1,7 +1,7 @@
 
-### Ultimate-Dork ![Python|3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
+### Dork Generator ![Python|3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 <img src="lib/Ultimate-Dork.png" width="400" height="400">
-<b>web crawler And Scan SQL injection vulnerability<b><br>
+<b>Dork generator lorem ipsum<b><br>
  
 #### Usage & Installation
 ```
@@ -25,6 +25,6 @@ python3 -m pip install requirements.txt
  
  
 ```
- <b>[ update ] :</b> 19 March 2019
+ <b>[ update ] :</b> 12 December 2020
  
 #### COPYRIGHT©2020 https://github.com/can-er/
