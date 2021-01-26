@@ -1,6 +1,6 @@
 import cmd
 
-from prettytable import PrettyTable
+from prettytable import jee
     
 class Table(object):
 	def __init__(self):
